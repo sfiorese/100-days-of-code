@@ -13,3 +13,15 @@
 **Link(s) to work**
 1. [Introducing JSON](www.json-schema.org)
 
+### Day 13: February 13, 2018.
+##### I started on January 22, 2018.
+
+**Today's Progress**: Manipulating Complex Objects.
+
+**Thoughts:** Working with Objects. Challenge Profile Lookup. Challenge Profile Lookup. 
+I had to review the use of hasOwnProperty. And I had had re-write the sintaxis to access vector´s elements.
+**Link to work:** [Profile Lookup](https://www.freecodecamp.org/challenges/profile-lookup)
+
+
+**Link(s) to work**
+1. [freeCodeCamp Challenge Guide: Profile Lookup](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-profile-lookup/18259)
