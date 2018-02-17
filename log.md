@@ -47,4 +47,19 @@ I had to review the use of hasOwnProperty. And I had had re-write the sintaxis t
 
 **Link to work:** [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
 
+### Day 16-17: February 16-17, 2018.
+##### I started on January 22, 2018.
+
+**Today's Progress**: Basic Algorithm Scripting Section - Front End Development Certification - freeCodeCamp.-
+
+**Thoughts:** I continue working in the section Basic Algorithm Scripting. I will start to work the code in an editor (VSCode) and then upload it to Github.
+**Reverse a String**
+**Factorialize a Number**
+**Check for Palindromes**
+**Find the Longest Word in a String**
+**Title Case a Sentence**
+**Return Largest Numbers in Arrays**
+
+**Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
+
 
