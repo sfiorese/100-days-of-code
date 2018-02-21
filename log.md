@@ -63,3 +63,14 @@ I had to review the use of hasOwnProperty. And I had had re-write the sintaxis t
 **Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
 
 
+### Day 18-19-20-21: February 18-19-20-21 2018.
+##### I started on January 22, 2018.
+
+**Today's Progress**: Basic Algorithm Scripting Section - Front End Development Certification - freeCodeCamp.-
+
+**Thoughts:** I continue working in the section Basic Algorithm Scripting.
+**Confirm the Ending Complete**
+**Repeat a string repeat a string Complete**
+**Truncate a string Complete**
+
+**Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
