@@ -74,3 +74,16 @@ I had to review the use of hasOwnProperty. And I had had re-write the sintaxis t
 **Truncate a string Complete**
 
 **Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
+
+### Day 22: February 22 2018.
+##### I started on January 22, 2018.
+
+**Today's Progress**: Basic Algorithm Scripting Section - Front End Development Certification - freeCodeCamp.-
+
+**Thoughts:** I continue working in the section Basic Algorithm Scripting.
+
+**Chunky Monkey Complete**
+
+HTML5 and CSS
+
+**Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
