@@ -84,6 +84,22 @@ I had to review the use of hasOwnProperty. And I had had re-write the sintaxis t
 
 **Chunky Monkey Complete**
 
-HTML5 and CSS
+**Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
+
+### Day 23-24: February 23-24 2018.
+##### I started on January 22, 2018.
+
+**Today's Progress**: Basic Algorithm Scripting Section - Front End Development Certification - freeCodeCamp.-
+
+**Thoughts:** I continue working in the section Basic Algorithm Scripting.
+
+**Slasher Flick**
+**Mutations**
 
 **Link to work:** [Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
+**Link(s) to work(read and review)**
+1. [Understanding Arrays in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-arrays-in-javascript)
+2. [Understanding Objects in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript)
+3. [How To Use Array Methods in JavaScript: Iteration Methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
+4. [How To Use Array Methods in JavaScript: Mutator Methods ](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-mutator-methods)
+5. []()
