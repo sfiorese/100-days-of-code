@@ -103,3 +103,20 @@ I had to review the use of hasOwnProperty. And I had had re-write the sintaxis t
 3. [How To Use Array Methods in JavaScript: Iteration Methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods)
 4. [How To Use Array Methods in JavaScript: Mutator Methods ](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-mutator-methods)
 5. []()
+--------------
+
+### R1D36: March 16 2018.
+##### I started on January 22, 2018.
+**Today's Progress**: Front End Development Certification - freeCodeCamp.-
+**Thoughts:** I completed the section Basic Algorithm Scripting &
+I completed the section JSON APIs & AJAX.
+**Link to work:**
+[Basic Algorithm Scripting Section](https://www.freecodecamp.org/sfiorese)
+[JSON APIs & AJAX Section](https://www.freecodecamp.org/sfiorese)
+
+
+
+
+
+
+
